@@ -1,0 +1,85 @@
+item_category_name,item_category_id,sub_category_1,sub_category_2,sub_category_1_en,sub_category_2_en
+PC - Гарнитуры/Наушники,0,PC , Гарнитуры/Наушники,PC,Headsets / Headphones
+Аксессуары - PS2,1,Аксессуары , PS2,accessories,PS2
+Аксессуары - PS3,2,Аксессуары , PS3,accessories,PS3
+Аксессуары - PS4,3,Аксессуары , PS4,accessories,PS4
+Аксессуары - PSP,4,Аксессуары , PSP,accessories,PSP
+Аксессуары - PSVita,5,Аксессуары , PSVita,accessories,PSVita
+Аксессуары - XBOX 360,6,Аксессуары , XBOX 360,accessories,XBOX 360
+Аксессуары - XBOX ONE,7,Аксессуары , XBOX ONE,accessories,XBOX ONE
+Билеты (Цифра),8,Билеты (Цифра),Not applicable,Tickets (digits),Not applicable
+Доставка товара,9,Доставка товара,Not applicable,Delivery of goods,Not applicable
+Игровые консоли - PS2,10,Игровые консоли , PS2,Game consoles,PS2
+Игровые консоли - PS3,11,Игровые консоли , PS3,Game consoles,PS3
+Игровые консоли - PS4,12,Игровые консоли , PS4,Game consoles,PS4
+Игровые консоли - PSP,13,Игровые консоли , PSP,Game consoles,PSP
+Игровые консоли - PSVita,14,Игровые консоли , PSVita,Game consoles,PSVita
+Игровые консоли - XBOX 360,15,Игровые консоли , XBOX 360,Game consoles,XBOX 360
+Игровые консоли - XBOX ONE,16,Игровые консоли , XBOX ONE,Game consoles,XBOX ONE
+Игровые консоли - Прочие,17,Игровые консоли , Прочие,Game consoles,other
+Игры - PS2,18,Игры , PS2,Games,PS2
+Игры - PS3,19,Игры , PS3,Games,PS3
+Игры - PS4,20,Игры , PS4,Games,PS4
+Игры - PSP,21,Игры , PSP,Games,PSP
+Игры - PSVita,22,Игры , PSVita,Games,PSVita
+Игры - XBOX 360,23,Игры , XBOX 360,Games,XBOX 360
+Игры - XBOX ONE,24,Игры , XBOX ONE,Games,XBOX ONE
+Игры - Аксессуары для игр,25,Игры , Аксессуары для игр,Games,Accessories for games
+Игры Android - Цифра,26,Игры Android , Цифра,Android Games,Numeral
+Игры MAC - Цифра,27,Игры MAC , Цифра,MAC games,Numeral
+Игры PC - Дополнительные издания,28,Игры PC , Дополнительные издания,PC Games,additional publications
+Игры PC - Коллекционные издания,29,Игры PC , Коллекционные издания,PC Games,Collector's edition
+Игры PC - Стандартные издания,30,Игры PC , Стандартные издания,PC Games,standard edition
+Игры PC - Цифра,31,Игры PC , Цифра,PC Games,Numeral
+"Карты оплаты (Кино, Музыка, Игры)",32,"Карты оплаты (Кино, Музыка, Игры)",Not applicable,"Payment card (Movies, Music, Games)",Not applicable
+Карты оплаты - Live!,33,Карты оплаты , Live!,payment cards,Live!
+Карты оплаты - Live! (Цифра),34,Карты оплаты , Live! (Цифра),payment cards,Live! (Numeral)
+Карты оплаты - PSN,35,Карты оплаты , PSN,payment cards,PSN
+Карты оплаты - Windows (Цифра),36,Карты оплаты , Windows (Цифра),payment cards,Windows (figure)
+Кино - Blu-Ray,37,Кино , Blu,Movie,Blu
+Кино - Blu-Ray 3D,38,Кино , Blu,Movie,Blu
+Кино - Blu-Ray 4K,39,Кино , Blu,Movie,Blu
+Кино - DVD,40,Кино , DVD,Movie,DVD
+Кино - Коллекционное,41,Кино , Коллекционное,Movie,Collector
+"Книги - Артбуки, энциклопедии",42,Книги ," Артбуки, энциклопедии",books,"Artbook, encyclopedia"
+Книги - Аудиокниги,43,Книги , Аудиокниги,books,Audiobooks
+Книги - Аудиокниги (Цифра),44,Книги , Аудиокниги (Цифра),books,Audiobooks (Digital)
+Книги - Аудиокниги 1С,45,Книги , Аудиокниги 1С,books,Audiobooks 1C
+Книги - Бизнес литература,46,Книги , Бизнес литература,books,Business books
+"Книги - Комиксы, манга",47,Книги ," Комиксы, манга",books,"Comics, manga"
+Книги - Компьютерная литература,48,Книги , Компьютерная литература,books,computer books
+Книги - Методические материалы 1С,49,Книги , Методические материалы 1С,books,Methodical materials 1C
+Книги - Открытки,50,Книги , Открытки,books,Postcards
+Книги - Познавательная литература,51,Книги , Познавательная литература,books,Informative literature
+Книги - Путеводители,52,Книги , Путеводители,books,guides
+Книги - Художественная литература,53,Книги , Художественная литература,books,Fiction
+Книги - Цифра,54,Книги , Цифра,books,Numeral
+Музыка - CD локального производства,55,Музыка , CD локального производства,Music,CD local production
+Музыка - CD фирменного производства,56,Музыка , CD фирменного производства,Music,CD production firm
+Музыка - MP3,57,Музыка , MP3,Music,MP3
+Музыка - Винил,58,Музыка , Винил,Music,Vinyl
+Музыка - Музыкальное видео,59,Музыка , Музыкальное видео,Music,Music video
+Музыка - Подарочные издания,60,Музыка , Подарочные издания,Music,Gift edition
+Подарки - Атрибутика,61,Подарки , Атрибутика,Presents,attributes
+"Подарки - Гаджеты, роботы, спорт",62,Подарки ," Гаджеты, роботы, спорт",Presents,"Gadgets, robots, sports"
+Подарки - Мягкие игрушки,63,Подарки , Мягкие игрушки,Presents,Stuffed Toys
+Подарки - Настольные игры,64,Подарки , Настольные игры,Presents,Board games
+Подарки - Настольные игры (компактные),65,Подарки , Настольные игры (компактные),Presents,Board games (compact)
+"Подарки - Открытки, наклейки",66,Подарки ," Открытки, наклейки",Presents,"Cards, stickers,"
+Подарки - Развитие,67,Подарки , Развитие,Presents,Development
+"Подарки - Сертификаты, услуги",68,Подарки ," Сертификаты, услуги",Presents,"Certificates, Services"
+Подарки - Сувениры,69,Подарки , Сувениры,Presents,Souvenirs
+Подарки - Сувениры (в навеску),70,Подарки , Сувениры (в навеску),Presents,Souvenirs (a sample of)
+"Подарки - Сумки, Альбомы, Коврики д/мыши",71,Подарки ," Сумки, Альбомы, Коврики д/мыши",Presents,"Bags, Albums, Mats d / mouse"
+Подарки - Фигурки,72,Подарки , Фигурки,Presents,figures
+Программы - 1С:Предприятие 8,73,Программы , 1С:Предприятие 8,Programs,1C: Enterprise 8
+Программы - MAC (Цифра),74,Программы , MAC (Цифра),Programs,MAC (Digital)
+Программы - Для дома и офиса,75,Программы , Для дома и офиса,Programs,Home & Office
+Программы - Для дома и офиса (Цифра),76,Программы , Для дома и офиса (Цифра),Programs,Home & Office (Digital)
+Программы - Обучающие,77,Программы , Обучающие,Programs,learning
+Программы - Обучающие (Цифра),78,Программы , Обучающие (Цифра),Programs,Training (Digital)
+Служебные,79,Служебные,Not applicable,System Tools,Not applicable
+Служебные - Билеты,80,Служебные , Билеты,System Tools,tickets
+Чистые носители (шпиль),81,Чистые носители (шпиль),Not applicable,Net carriers (spire),Not applicable
+Чистые носители (штучные),82,Чистые носители (штучные),Not applicable,Net carriers (piece),Not applicable
+Элементы питания,83,Элементы питания,Not applicable,batteries,Not applicable
